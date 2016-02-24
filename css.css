@@ -1,0 +1,21 @@
+#mcontainer{
+    background-color: yellow;
+}
+
+#text{
+  margin-bottom: 50px;
+  
+}
+
+#mtext{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 150%;
+    color: red;
+}
+
+#emtext{
+    font-size: 120%;
+    color: blue;
+    
+}
